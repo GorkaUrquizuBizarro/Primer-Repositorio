@@ -1,0 +1,2 @@
+es_mayor_de_edad = False
+type(es_mayor_de_edad)
